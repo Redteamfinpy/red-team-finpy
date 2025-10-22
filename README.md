@@ -44,4 +44,4 @@ Powered by red ripper. 🚀
 PRs welcome! Focus on AMD optimizations.
 
 ## 📧 Contact
-[Your GitHub] – AMD CPU beast taming.
+[https://github.com/Redteamfinpy] – finpy, red team way. 
